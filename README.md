@@ -20,4 +20,5 @@ Aqui é link para visualização no Codepen.io: [(https://codepen.io/collection/
 
 *   Resultado:
 
-![animação](https://github.com/moscardini-carvalho/Homem-Aranha/assets/162808430/34a8d969-ad57-480d-89d3-882fd8e279be)
+![Yellow Submarine](https://github.com/moscardini-carvalho/Yellow-Submarine/assets/162808430/2def1d74-25f2-4513-8a2c-5cd1368c920f)
+
